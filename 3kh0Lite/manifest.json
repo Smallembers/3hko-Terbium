@@ -1,0 +1,8 @@
+{
+  "name": "3kh0 Lite",
+  "id": "3kh0lite",
+  "version": "1.0.0",
+  "entry": "main.html",
+  "icon": "icon.png",
+  "description": "Play 3kh0 Lite in a resizable window"
+}
